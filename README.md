@@ -18,7 +18,7 @@ https://easytoolkit.in/content-difference-checker/
 
 ## Screenshot
 
-![Uploading Content Difference Checker.png…]()
+<img width="1536" height="1024" alt="Content Difference Checker" src="https://github.com/user-attachments/assets/2bcf6dd0-2c09-4112-ade7-0f98d9fe5902" />
 
 
 ## About EasyToolkit
