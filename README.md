@@ -18,7 +18,8 @@ https://easytoolkit.in/content-difference-checker/
 
 ## Screenshot
 
-Add a screenshot of the tool here.
+![Uploading Content Difference Checker.png…]()
+
 
 ## About EasyToolkit
 
